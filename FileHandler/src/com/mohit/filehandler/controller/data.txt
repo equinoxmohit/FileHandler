@@ -1,0 +1,5 @@
+1,Manish,Marahatta,manish@gmail.com,1
+2,anish,arahatta,anish@gmail.com,0
+3,ranish,rarahatta,ranish@gmail.com,1
+2,Manish,karahatta,manish@gmail.com,0
+5,xanish,xarahatta,xanish@gmail.com,1
